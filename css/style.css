@@ -221,10 +221,10 @@ footer{
     cursor: pointer;
 }
 .line{
-    width: 29px;
+    width: 30px;
     background-color: white;
-    height: 3px;
-    margin: 4px 0px;
+    height: 4px;
+    margin: 5px 0px;
 }
 
 
