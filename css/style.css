@@ -20,7 +20,7 @@ body{
     padding-top: 80px;
 }
 .background-img{
-    background: rgba(0, 0, 0, 0.7) url("./img/bg1.jpg");
+    background: rgba(0, 0, 0, 0.7) url("../img/bg1.JPG");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
